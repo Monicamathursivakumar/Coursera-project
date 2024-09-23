@@ -29,18 +29,8 @@ Sugarland Theaters aims to boost cinema and theater bookings by providing a user
 
 ## Layout Example
 
-Sugarland Theaters provided an example of a cinema layout that inspired the seat mapping. The layout adapts dynamically based on the user's device.
+Theaters provided an example of a cinema layout that inspired the seat mapping. The layout adapts dynamically based on the user's device.
 
-### Desktop View:
-- Full seat map is visible with all seats displayed at once.
-
-### Tablet View:
-- Seat map is zoomed to fit the tablet screen size.
-- Buttons and seat selection controls are resized for touch input.
-
-### Mobile View:
-- The seat map is divided into sector areas that can be tapped to zoom in on specific sections.
-- Larger buttons and simplified controls for easier touch navigation.
 
 ## Technology Stack
 
