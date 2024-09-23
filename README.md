@@ -48,9 +48,4 @@ Sugarland Theaters provided an example of a cinema layout that inspired the seat
 - **CSS3**: Styling for the responsive grid and layout adjustment.
 - **JavaScript**: Handles dynamic interactions, seat selection, and responsive controls.
 
-## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/movie-seat-selection-ui.git
-   cd movie-seat-selection-ui
