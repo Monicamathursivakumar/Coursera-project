@@ -1,4 +1,4 @@
-# Coursera-project
+
 # Movie Seat Selection UI
 
 This repository contains a prototype for a **Movie Seat Selection UI** that demonstrates a responsive layout and dynamic controls based on screen size. The project is designed to enhance the booking experience across various devices, ensuring smooth seat selection in cinemas and theaters.
